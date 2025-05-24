@@ -1,6 +1,10 @@
 self.assetsManifest = {
-  "version": "LEm8/qdP",
+  "version": "+Sf+MRHR",
   "assets": [
+    {
+      "hash": "sha256-8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U=",
+      "url": ".nojekyll"
+    },
     {
       "hash": "sha256-v5dUyY5I+d/x44fkQ66FJ2WrxHzE/Pc8A8MLg7IZUOk=",
       "url": "DevFriendSLHelper.WASM.styles.css"
